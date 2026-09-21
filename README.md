@@ -73,6 +73,6 @@ A few gaps surfaced between the planning docs and the actual data in `09-Databas
 
 ## Credits
 
-Built by **Yoganath M**, B.Tech AI & Data Science, Agni College of Technology, Chennai — as coursework for OFD352 Traditional Indian Foods.
+Built by **Yoganath M**.  
 
-Product research grounded in documented South Indian/Tamil culinary heritage sources (see `07-Product-Description.md` for sourcing notes).
+Product research grounded in documented South Indian/Tamil culinary heritage sources
