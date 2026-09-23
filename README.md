@@ -70,9 +70,3 @@ A few gaps surfaced between the planning docs and the actual data in `09-Databas
 - **Region assignments:** for 6 products, the region named in `07-Product-Description.md`'s prose doesn't match the `region_id` assigned in the spreadsheet (e.g. product 1 is written up as "Rural Tamil Nadu" but tagged `Thanjavur` in the data). The spreadsheet's `region_id` was treated as the source of truth.
 - **Product imagery:** no photos were supplied; the site uses category-themed CSS/SVG placeholder art instead (see `/images` note above).
 - **"Why It Disappeared" content:** sourced directly from `07-Product-Description.md`'s per-product notes, which that doc states are researched from published food-heritage sources.
-
-## Credits
-
-Built by **Yoganath M**.  
-
-Product research grounded in documented South Indian/Tamil culinary heritage sources
